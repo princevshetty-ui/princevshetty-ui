@@ -2,7 +2,7 @@
 
 AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, and event platforms used by hundreds of real users.
 
-[Skills](https://skillicons.dev/icons?i=py,js,ts,php,react,vite,tailwind,fastapi,nodejs,express,supabase,postgres,firebase,prisma,git,jest,eslint,threejs)
+![Skills](https://skillicons.dev/icons?i=py,js,ts,php,react,vite,tailwind,fastapi,nodejs,express,supabase,postgres,firebase,prisma,git,jest,threejs)
 
 Also: Google Gemini · OpenCV · scikit-learn · RandomForest · Custom k-NN SMOTE · Pillow · JWT · Railway · Pydantic · Framer Motion · Recharts · GitHub Copilot CLI · Rich (Python TUI)
 
