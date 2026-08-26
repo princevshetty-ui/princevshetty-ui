@@ -1,10 +1,34 @@
-# Hi, I'm Vishesh Vandan (V) 👋
+# Hi, I'm Vishesh Vandan 👋
 
 AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, and event platforms used by hundreds of real users.
 
 ![Skills](https://skillicons.dev/icons?i=py,js,ts,php,react,vite,tailwind,fastapi,nodejs,express,supabase,postgres,firebase,prisma,git,jest,threejs)
 
-Also: Google Gemini · OpenCV · scikit-learn · RandomForest · Custom k-NN SMOTE · Pillow · JWT · Railway · Pydantic · Framer Motion · Recharts · GitHub Copilot CLI · Rich (Python TUI)
+**AI Platforms and Tool**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=flat&logo=githubcopilot&logoColor=white)
+
+**AI / ML Libraries**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+`RandomForest` · `Custom k-NN SMOTE`
+
+**Libraries & Tools**
+
+![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-Python_TUI-2088FF?style=flat)
+
 
 ---
 
@@ -37,7 +61,7 @@ Also: Google Gemini · OpenCV · scikit-learn · RandomForest · Custom k-NN SMO
 
 ## 🏅 Hackathons & Wins
 
-Hack4Future 2025 · GitHub Copilot CLI Hackathon · Zerve × HackerEarth · GitLab AI Hackathon · AMD Hackathon  
+Hack4Future 2025 · GitHub Copilot CLI Hackathon · Zerve × HackerEarth  
 🏆 **1st Prize — College Codeathon** · **Special Mention — Debugging Competition**
 
 ---
