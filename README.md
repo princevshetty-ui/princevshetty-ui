@@ -10,6 +10,10 @@ AI/ML-focused full-stack developer and BCA student building agentic tools, multi
 
 ## 🛠️ Tech Stack
 
+**Core stack, at a glance**
+
+![Skills](https://skillicons.dev/icons?i=py,js,ts,php,react,vite,tailwind,fastapi,nodejs,express,supabase,postgres,firebase,prisma,git,jest,eslint,threejs)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +38,7 @@ AI/ML-focused full-stack developer and BCA student building agentic tools, multi
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Pillow](https://img.shields.io/badge/Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Data, Infra & Auth**
 
@@ -50,7 +55,9 @@ AI/ML-focused full-stack developer and BCA student building agentic tools, multi
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-GitHub Copilot CLI · RandomForest · Custom k-NN SMOTE · Prompt Engineering / Agentic Workflows
+![RandomForest](https://img.shields.io/badge/RandomForest-8E75B2?style=for-the-badge&logoColor=white)
+![Custom k-NN SMOTE](https://img.shields.io/badge/Custom_k--NN_SMOTE-8E75B2?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering_%2F_Agentic_Workflows-8E75B2?style=for-the-badge&logoColor=white)
 
 **Testing & Tooling**
 
@@ -58,7 +65,8 @@ GitHub Copilot CLI · RandomForest · Custom k-NN SMOTE · Prompt Engineering / 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-React Testing Library · Rich (Python TUI)
+![React Testing Library](https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Rich](https://img.shields.io/badge/Rich-9370DB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
