@@ -6,11 +6,11 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 
 **AI Platforms and Tool**
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logo=groq&logoColor=white)
-![GitHub Copilot CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=flat&logo=githubcopilot&logoColor=white)
+![COPILOT CLI](https://img.shields.io/badge/GitHub_Copilot_CLI-000000?style=flat&logo=githubcopilot&logoColor=white)
 
 **AI / ML Libraries**
 
