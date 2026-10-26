@@ -51,6 +51,15 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 
 ---
 
+## 🛡️ Cybersecurity Project
+
+**🛡️ SecureMailScope** — Passive email-security analysis for SIH 2026 (PS26159). Analyses captured PCAP files, reconstructs email sessions, inspects observable TLS/certificate evidence, and produces evidence-backed findings with JSON/HTML/PDF reports. The ML Isolation Forest is an advisory anomaly signal; deterministic rules determine the security posture.  
+`Python` `Scapy` `cryptography` `scikit-learn` `HTML` `CSS` `JavaScript`
+
+**My contribution:** Worked extensively on the backend analysis pipeline, deterministic security-rule engine and ML advisory integration; helped validate risk scoring and evidence-backed reports, built and tested demo PCAP scenarios, and prepared judge-facing explanations and demo workflows in collaboration with the team. The project was developed collaboratively — this is not a claim of sole authorship.
+
+---
+
 ## 🧩 Also Building
 
 **PayzonHub** (private, in progress) — payroll/attendance platform · **AI Skill Gap Analyzer** (in progress) — resume-vs-role matcher · **Roadmap App** — 18-month AI/ML prep tracker, live on Vercel
