@@ -51,12 +51,18 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 
 ---
 
-## 🛡️ Cybersecurity Project
+## 🛡️ Cybersecurity Projects
 
 **🛡️ SecureMailScope** — Passive email-security analysis for SIH 2026 (PS26159). Analyses captured PCAP files, reconstructs email sessions, inspects observable TLS/certificate evidence, and produces evidence-backed findings with JSON/HTML/PDF reports. The ML Isolation Forest is an advisory anomaly signal; deterministic rules determine the security posture.  
 `Python` `Scapy` `cryptography` `scikit-learn` `HTML` `CSS` `JavaScript`
 
 **My contribution:** Worked extensively on the backend analysis pipeline, deterministic security-rule engine and ML advisory integration; helped validate risk scoring and evidence-backed reports, built and tested demo PCAP scenarios, and prepared judge-facing explanations and demo workflows in collaboration with the team. The project was developed collaboratively — this is not a claim of sole authorship.
+
+**🔎 [SIH26145 — AI-Based Detection of Cyber Threats in Unidirectional IP Traffic](https://github.com/princevshetty-ui/threatdetection)** *(in progress; repository currently private)* — A passive, read-only network-traffic analysis prototype designed to process supported PCAP/PCAPNG captures without probing or sending traffic back to the monitored network. The planned pipeline covers capture ingestion, flow reconstruction, streaming windows, and later threat-specific analysis for DDoS, C2 beaconing, DNS/DGA activity, encrypted-session metadata, reconnaissance, and possible data exfiltration.
+
+**My contribution:** Driving the problem analysis and technical direction: translating the SIH brief into explicit requirements and constraints, shaping the passive-ingestion and capture-independent architecture, defining the slice-by-slice implementation and validation workflow, and reviewing tests, provenance, limitations, and documentation as the prototype develops. Implementation is ongoing and collaborative/AI-assisted; I’m not claiming sole authorship or that all planned detection capabilities are already complete.
+
+`Python` `PCAP/PCAPNG` `Network Traffic Analysis` `Streaming Systems` `Cybersecurity`
 
 ---
 
