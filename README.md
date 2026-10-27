@@ -34,16 +34,16 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 
 ## 🚀 Flagship Projects
 
-**🔥** [**DarkLens**](https://github.com/princevshetty-ui/DarkLens) — Multimodal AI tool that analyzes checkout/UI screenshots and assigns a 0–100 manipulation score against India's CCPA dark-pattern taxonomy. Built at **Hack4Future 2025** with **Vishesh Vandan · Adnan Ashraf · Jay Thakkar · Koushik C**; judges called it *"a good initiative with strong potential."*
+**🔥** [**DarkLens**](https://github.com/princevshetty-ui/DarkLens) — Multimodal AI tool that analyzes **1–3 checkout/UI screenshots** against **13 CCPA dark-pattern categories** and returns a **0–100 manipulation-intensity score**, with evidence and legal references. Built at **Hack4Future 2025** with **Vishesh Vandan · Adnan Ashraf · Jay Thakkar · Koushik C**; the team received positive judge feedback.
 `React 19` `FastAPI` `Gemini 2.0 Flash Vision`
 
 **⚡** [**AURA CLI**](https://github.com/princevshetty-ui/aura-cli) — Agentic developer CLI (1,700+ lines): secret scanning, wellness tracking, AI-generated dev journals, sustainability grading, and project scaffolding via GitHub Copilot CLI. Built for the **GitHub Copilot CLI Hackathon**.
 `Python` `Rich` `GitHub Copilot CLI`
 
-**🏢 IZee Job Fair** *(private repo)* — Full event-ops platform: pre-reg + walk-in registration, 3 roles (admin/volunteer/candidate), QR passes, bulk email via Brevo. **500+ attendees, zero downtime, 50+ volunteers, 50+ companies.**
+**🏢 IZee Job Fair** *(private repo)* — Full event-ops platform for the 8 May 2026 placement drive: pre-registration and walk-ins, admin/volunteer/candidate roles, QR passes, bulk email via Brevo, attendance validation, and CSV/Excel workflows. **650+ registrations, 500+ attendees, 50+ volunteers, 80+ recruiting companies.**
 `React 19` `FastAPI` `Supabase` `JWT` `Pillow` `Railway`
 
-**🎭 IZee Got Talent** *(private repo)* — Cultural-fest platform with dual registration flows (audience vs. competitors, max 2 events), faculty approval pipeline, and QR entry validation. **350+ attendees managed live.**
+**🎭 IZee Got Talent** *(private repo)* — Cultural-fest registration platform with separate audience and competitor flows, a two-event selection limit, faculty approval before pass issuance, and QR entry validation. **350+ attendees supported live.**
 `React` `FastAPI` `Supabase` `PostgreSQL`
 
 **💻 [College Code Arena — Live Web App](https://id-preview--0de5f8b3-2275-45ec-a16c-62bc7172d6d9.lovable.app)** — A competition platform built for a BCA debugging event at IZee Business School. Supports timed coding/debugging rounds, participant registration, randomized MCQ assessments, predefined-answer debugging challenges, and admin workflows for running the competition.
@@ -56,14 +56,14 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 
 ## 🛡️ Cybersecurity Projects
 
-**🛡️ SecureMailScope** — Passive email-security analysis for SIH 2026 (PS26159). Analyses captured PCAP files, reconstructs email sessions, inspects observable TLS/certificate evidence, and produces evidence-backed findings with JSON/HTML/PDF reports. The ML Isolation Forest is an advisory anomaly signal; deterministic rules determine the security posture.  
+**🛡️ SecureMailScope** — Passive email/TLS security analysis for SIH 2026 (PS26159). Reconstructs captured mail sessions, inspects observable TLS/certificate evidence, and generates evidence-backed JSON/HTML/PDF reports. **Verified engineering metrics: 1,735 tests passed, 35 PCAP fixtures, 29 certificate fixtures, and 10 deterministic rules.** The ML Isolation Forest is advisory; deterministic rules determine the security posture.  
 `Python` `Scapy` `cryptography` `scikit-learn` `HTML` `CSS` `JavaScript`
 
 **My contribution:** Worked extensively on the backend analysis pipeline, deterministic security-rule engine and ML advisory integration; helped validate risk scoring and evidence-backed reports, built and tested demo PCAP scenarios, and prepared judge-facing explanations and demo workflows in collaboration with the team. The project was developed collaboratively — this is not a claim of sole authorship.
 
-**🔎 [SIH26145 — AI-Based Detection of Cyber Threats in Unidirectional IP Traffic](https://github.com/princevshetty-ui/threatdetection)** *(in progress; repository currently private)* — A passive, read-only network-traffic analysis prototype designed to process supported PCAP/PCAPNG captures without probing or sending traffic back to the monitored network. The planned pipeline covers capture ingestion, flow reconstruction, streaming windows, and later threat-specific analysis for DDoS, C2 beaconing, DNS/DGA activity, encrypted-session metadata, reconnaissance, and possible data exfiltration.
+**🔎 [SIH26145 — AI-Based Detection of Cyber Threats in Unidirectional IP Traffic](https://github.com/princevshetty-ui/threatdetection)** *(completed prototype; repository currently private)* — A passive, read-only analyzer for supported PCAP/PCAPNG captures, designed to reconstruct unidirectional IP-flow evidence without probing monitored hosts or sending traffic back into the network. **Scope metrics: 2 capture formats (PCAP and PCAPNG), offline analysis, and no active probing by design.** No verified accuracy, throughput, or false-positive benchmark is claimed.
 
-**My contribution:** Driving the problem analysis and technical direction: translating the SIH brief into explicit requirements and constraints, shaping the passive-ingestion and capture-independent architecture, defining the slice-by-slice implementation and validation workflow, and reviewing tests, provenance, limitations, and documentation as the prototype develops. Implementation is ongoing and collaborative/AI-assisted; I’m not claiming sole authorship or that all planned detection capabilities are already complete.
+**My contribution:** Translated the SIH brief into technical requirements, shaped the passive-ingestion and flow-reconstruction workflow, and reviewed testing, evidence provenance, limitations, and documentation. The work was collaborative; I’m not claiming sole authorship.
 
 `Python` `PCAP/PCAPNG` `Network Traffic Analysis` `Streaming Systems` `Cybersecurity`
 
