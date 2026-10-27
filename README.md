@@ -46,8 +46,17 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 **🎭 IZee Got Talent** *(private repo)* — Cultural-fest registration platform with separate audience and competitor flows, a two-event selection limit, faculty approval before pass issuance, and QR entry validation. **350+ attendees supported live.**
 `React` `FastAPI` `Supabase` `PostgreSQL`
 
-**💻 [College Code Arena — Live Web App](https://dev-duels-foundation.lovable.app/)** — A competition platform built for a BCA debugging event at IZee Business School. Supports timed coding/debugging rounds, participant registration, randomized MCQ assessments, predefined-answer debugging challenges, and admin workflows for running the competition.
-`TypeScript` `PostgreSQL` `Lovable`
+**💻 [College Code Arena — Live Web App](https://dev-duels-foundation.lovable.app/)** — A multi-round debugging competition platform created for a BCA event at IZee Business School.
+
+- **Round 1 — Timed MCQ screening:** 30 debugging questions in 30 minutes, randomized question/option order per participant, with saved progress and resume support.
+- **Round 2 — Debugging challenges:** 10 predefined-answer coding/debugging tasks across easy, medium, and hard difficulty levels.
+- **Competition integrity:** Server-authoritative timing and scoring, server-side answer validation, one-attempt enforcement, and a qualification threshold for advancing.
+- **Participant experience:** Registration flow, clear round progression, autosave/resume behavior, and result tracking.
+- **Administration:** Admin workflows to manage the competition and its participants.
+
+Built with a focus on fair, consistent evaluation and reducing opportunities for client-side tampering. Security claims describe implemented competition controls, not a formal security audit.
+
+`TypeScript` `PostgreSQL` `Lovable` `Server-side Validation` `Assessment Integrity`
 
 **📈 Zerve-Pulse** *(hosted on Zerve)* — RandomForest model predicting long-term power users from behavioral telemetry rather than credits or signups. Custom k-NN SMOTE for class imbalance, threshold-calibrated for **100% recall, 99.09% precision** on 5,410 users. Shipped as a live REST API.
 `Python` `scikit-learn` `RandomForest`
