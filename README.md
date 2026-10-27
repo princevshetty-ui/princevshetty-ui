@@ -46,6 +46,9 @@ AI/ML-focused full-stack developer building agentic tools, multimodal AI apps, a
 **🎭 IZee Got Talent** *(private repo)* — Cultural-fest platform with dual registration flows (audience vs. competitors, max 2 events), faculty approval pipeline, and QR entry validation. **350+ attendees managed live.**
 `React` `FastAPI` `Supabase` `PostgreSQL`
 
+**💻 [College Code Arena — Live Web App](https://id-preview--0de5f8b3-2275-45ec-a16c-62bc7172d6d9.lovable.app)** — A competition platform built for a BCA debugging event at IZee Business School. Supports timed coding/debugging rounds, participant registration, randomized MCQ assessments, predefined-answer debugging challenges, and admin workflows for running the competition.
+`TypeScript` `PostgreSQL` `Lovable`
+
 **📈 Zerve-Pulse** *(hosted on Zerve)* — RandomForest model predicting long-term power users from behavioral telemetry rather than credits or signups. Custom k-NN SMOTE for class imbalance, threshold-calibrated for **100% recall, 99.09% precision** on 5,410 users. Shipped as a live REST API.
 `Python` `scikit-learn` `RandomForest`
 
