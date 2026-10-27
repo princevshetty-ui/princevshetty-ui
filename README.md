@@ -53,7 +53,7 @@ Collaborative SIH 2026 project (SIH 26159). Parses PCAP captures, reconstructs T
 **My contribution (team project):** Backend analysis-pipeline work, deterministic security-rule engine and ML advisory integration, risk-scoring/report validation, demo-PCAP scenarios, and judge-facing explanations/demo workflows. This is not a claim of sole authorship.  
 **Stack:** Python · Scapy · cryptography · scikit-learn · HTML/CSS/JavaScript
 
-### 🔎 [SIH26145 — AI-Based Detection of Cyber Threats in Unidirectional IP Traffic](https://github.com/princevshetty-ui/threatdetection) *(completed prototype; private repo)*
+### 🔎 [ThreatDetection AI-Based Detection of Cyber Threats in Unidirectional IP Traffic](https://github.com/princevshetty-ui/threatdetection) *(completed prototype; private repo)*
 Passive, read-only analyzer for PCAP and PCAPNG captures. Focuses on offline capture ingestion, unidirectional IP-flow reconstruction, evidence tracking, validation, and documented findings; does not probe monitored hosts or send traffic back into the network. No verified accuracy, throughput, or false-positive-rate benchmark is currently claimed.
 
 **My contribution (team project):** Helped translate the SIH problem statement into technical requirements, shape the passive-ingestion/flow-reconstruction workflow, and review testing, evidence provenance, limitations, and documentation. Not a claim of sole authorship.  
@@ -84,7 +84,7 @@ A **1,700+ line Python CLI** built for the GitHub Copilot CLI Hackathon. Five mo
 ## 📌 Academic Details
 
 **BCA — IZee Business School / Bangalore University**  
-CGPA: *Add your verified current CGPA here before using this section for applications.*
+CGPA: *8.2*
 
 ---
 
