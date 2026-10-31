@@ -24,11 +24,15 @@ BCA student and AI/ML-focused full-stack developer building applied AI tools, se
 Built at **Hack4Future 2025** with a four-person team. Analyzes **1–3 checkout/UI screenshots**, maps visible evidence against **13 CCPA dark-pattern categories**, and returns a **0–100 manipulation-intensity score** with confidence levels and legal references. Includes cross-screen comparison for price escalation, new fees, and repeated patterns. Team received positive judge feedback.  
 **Stack:** React 19 · FastAPI · Gemini 2.0 Flash Vision · Tailwind · Recharts
 
-### 🏢 IZee Job Fair 2026 — Event Registration & QR Pass Platform *(private repo)*
-Full-stack platform for the **8 May 2026** placement drive, supporting pre-registration and walk-ins, admin/volunteer roles, digital QR passes, pass delivery, entry validation, and CSV/Excel reporting. **Live-event outcomes reported by the team: 650+ registrations, 500+ attendees, 50+ volunteers, and 80+ recruiting companies.**  
-**Implementation highlights:** React 19/Vite frontend; FastAPI backend; Supabase/PostgreSQL; JWT role-based access; Pillow-based QR passes; Brevo email API; Railway deployment.  
-**Stack:** React · FastAPI · Supabase · JWT · Pillow · Brevo · Railway
+### 🏢 [IZee Job Fair 2026 — Digital Registration & Pass Platform](https://github.com/princevshetty-ui/IZee-Job-Fair)
+Full-stack event-operations platform deployed for the **8 May 2026** placement drive. Supports pre-registration and walk-ins, role-based admin/volunteer access, digital QR passes, automated email delivery, browser-based gate validation, and CSV/Excel reporting. Reported live-event outcomes: **650+ registrations, 500+ attendees, 50+ volunteers, and 80+ recruiting companies**.  
+**My work:** Built the application across the React frontend and FastAPI backend, integrating Supabase/PostgreSQL, JWT role access, QR generation, Brevo email delivery, and deployment workflows.  
+**Stack:** React · TypeScript · Vite · FastAPI · Supabase/PostgreSQL · JWT · Pillow · Brevo · Railway
 
+### 🎭 [IZee Got Talent — Registration & Digital Pass System](https://github.com/princevshetty-ui/Izee-Culturals/tree/Safe-Changes)
+Full-stack registration and pass platform for the IZee cultural event. Supports audience and competitor registration, a two-event selection limit, faculty approval before pass issuance, QR entry validation, status checking, and CSV reporting. Supported **350+ attendees** during the live event.  
+**My work:** Independently built and deployed the platform using React, FastAPI, Supabase/PostgreSQL and QR generation, including the faculty approval workflow and event-day registration/pass flow.  
+**Stack:** React · TypeScript · Vite · FastAPI · Supabase/PostgreSQL · QR generation · CSV export
 ### 🎭 IZee Got Talent — Cultural Fest Registration & Approval *(private repo)*
 Registration system for audience and competitors, with a **two-event selection limit**, pending-to-approved faculty workflow, QR pass generation only after approval, status checking, QR entry validation, faculty dashboard, and CSV export. **Supported 350+ attendees during the live event.**  
 **Stack:** React · FastAPI · Supabase/PostgreSQL · QR generation · CSV export
